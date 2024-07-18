@@ -1,7 +1,7 @@
 Automated Facebook Signup Page location
 Description
 --------
-src-->amazon-->Amazon.java
+src-->Facebooksignuppage.java
 1.Successfully created and implemented automated test scripts using Selenium WebDriver and Java to validate the functionality of the Facebook sign-up page.
 2.Utilized TestNG framework for structuring and managing test cases, enabling efficient test execution, and providing detailed test reports.
 3.Implemented test annotations (@Test, @BeforeClass, @AfterMethod, AfterTest, etc.) for better test management and enhanced readability.
